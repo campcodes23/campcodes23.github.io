@@ -22,9 +22,9 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 8:30 AM
+        end: 11:20 AM
+        location: Metcalf 104
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -34,12 +34,17 @@ schedule:
         end: 2:00 PM
         location: 271 Soda
   - name: Tuesday
+    events:
+      - name: Lecture
+        start: 8:30 AM
+        end: 11:20 AM
+        location: Metcalf 104
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 8:30 AM
+        end: 11:20 AM
+        location: Metcalf 104
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -49,12 +54,17 @@ schedule:
         end: 2:00 PM
         location: 271 Soda
   - name: Thursday
+    events:
+      - name: Lecture
+        start: 8:30 AM
+        end: 11:20 AM
+        location: Metcalf 104
   - name: Friday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 8:30 AM
+        end: 11:20 AM
+        location: Metcalf 104
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
