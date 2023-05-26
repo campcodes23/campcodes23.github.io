@@ -28,16 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  # nothing for now
-footer: >-
-  Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
-
-nav_links:
-  Links:
     Canvas:
-      - 'https://canvas.brown.edu/courses/1091832'
-    Replit:
-      - 'brown.edu'
+    - 'https://canvas.brown.edu/courses/1091832'
+  Replit:
+    - 'brown.edu'
 
 # Collections for website data
 collections:
