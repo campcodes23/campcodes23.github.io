@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-    Canvas:
+  Canvas:
     - 'https://canvas.brown.edu/courses/1091832'
   Replit:
     - 'brown.edu'
