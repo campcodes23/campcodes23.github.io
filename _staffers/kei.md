@@ -6,4 +6,4 @@ website: https://kyoshida14.github.io
 photo: kei.png
 ---
 
-I like teaching Computer Science!
+I like teaching Computer Science!!
