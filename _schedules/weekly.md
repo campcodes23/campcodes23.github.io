@@ -42,12 +42,14 @@ schedule:
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: Using Logic
   - name: Wednesday 12th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: For and While Loops
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -62,12 +64,14 @@ schedule:
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: Functions, Lists, & Dictionaries
   - name: Friday 14th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: Apply what you've learned- tournament day
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -86,6 +90,7 @@ schedule:
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: External Data and Coding Community
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -100,12 +105,14 @@ schedule:
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: Numpy and Matplotlib
   - name: Wednesday 19th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: Pandas and Data Science
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -120,18 +127,12 @@ schedule:
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
+        topic: Programming and Society
   - name: Friday 21st
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        topic: Final Project Presentations
 ---

@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcement
+title: Day 0 (Pre-Class) Announcements
 week: 0
-date: 2019-04-01
+date: 2023-07-01
 ---
 
 Hello world!
