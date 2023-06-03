@@ -50,7 +50,56 @@ I expect this course to total approximately 55 hours of work-time. This includes
 All course material will be distributed through Canvas. Each day’s activities will be submitted through this medium. Any lecture slides will be made available the day before via canvas. 
 ### Schedule of Topics
 
+| **Date**              | **Topic**                                               |
+|-----------------------|---------------------------------------------------------|
+| **Monday July 10**    | Intro to Programming, Variables, and Basic Operations   |
+| **Tuesday July 11**   | Using Logic: Expressions vs. Statements and If/Else     |
+| **Wednesday July 12** | For and While Loops                                     |
+| **Thursday July 13**  | Functions, Lists, and Dictionaries                      |
+| **Friday July 14**    | Apply What You Learn: Pokemon Tournament                |
+| **Monday July 17**    | Packages, External Data, Coding Community               |
+| **Tuesday July 18**   | Numpy and Matplotlib                                    |
+| **Wednesday July 19** | Pandas and Datasci                                      |
+| **Thursday July 20**  | Programming and Society, Work Session for Final Project |
+| **Friday July 21**    | Final Project Presentations                             |
 
-## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### Course Performance
+
+Per the Brown Pre-College program, you will receive a course performance report and a Certificate of Completion in the mail in September. We will base our written reports in line with the distribution below. For more details on course completion materials see the Brown Pre-College website: https://precollege.brown.edu/accepted-students/summerbrown-prebacc-campus 
+
+| **Tool**              | **Weight**              | **Dates**                     |
+|-----------------------|---------------------------------------------------------|
+| **Participation & In Class Activities**    |  50% |Throughout Course   |
+| **Out-of-class Assignments**   | 30% | Throughout Course     |
+| **Final Project** | 20% | July 21st                                    |
+
+### Details on Assignments
+*Final Project:* For your final project you will visualize a dataset using the Python skills you have acquired during the course. Details for this assignment will be released on July 14th (Day 5) and will be reviewed in class.
+
+*In-Class Activities:* During the course you may be asked to work in small groups or individually to complete reflections, small programming assignments, and other course activities. Please plan to bring your laptop to class with you to complete these, along with a charging cord if you anticipate needing to charge the machine during a three hour session.
+
+*Out-of-class Assignments:* Between classes, we will provide activities to supplement and practice what you have learned that day in class. These should take about 2-3 hours per evening, and we will offer office hours (see info below!) for you to complete them during if you want assistance or to work in a group. 
+
+## Classroom Environment
+It is my intention to make this course accessible and valuable for all students, regardless of their background in computer science or personal identity. I aim to promote discussions and collaborations which harness and benefit from the diversity of students who will be in the classroom. However, intentions are not always met and it is the impact of my teaching practices which will matter for your learning and growth as programmers. With this in mind, if there are things you think I should start or stop doing to create a more inclusive classroom or syllabus, I hope that you feel comfortable bringing your ideas to me or a TA so that we can work together to improve this course. And if anyone in our class makes you feel like you do not belong in CS or are not a “real” programmer, I hope you can bring that information to me so I can take appropriate action – you DO belong here as much as anyone else. 
+
+### Respectful Learning Environment
+In addition to the scholarly expectations of this course are the interpersonal ones. You are expected to treat your fellow students with respect during class discussions, office hours, and when collaborating with them on projects. This means listening to their ideas and allowing for a varied group of voices to participate in class, and it also means respecting their position in the room as learners just like you. See academic integrity section below for more information about working together, which will be heavily encouraged. But in this class, working together does not mean using the answer from whomever solves the problem the quickest. It means helping each other come to the solution together, appreciating that our peers may be faster or slower on any given topic than ourselves, and not robbing fellow students of the time they need to understand and execute code themselves. This will also allow for you to see multiple solutions to a problem -- there is always more than one way to code something! Please treat your classmates the way you would want to be treated, as someone who is putting in the time and deserves to learn from this course.
+
+### Office Hours
+Office hours are designated times that your instructors set aside to engage with questions that may come up during class or on assignments. They are on a drop-in basis (meaning you do NOT have to stay for the whole hour - you can come and go as you please - and you do not need to tell us ahead of time you will come) and are for your benefit. Office hours are a staple of all college courses and are an incredibly helpful resource to get to know your instructors and engage with the material in a deeper way. They’re also a great opportunity to work on your assignments with your peers. Please stop in to see us during our hours!
+
+### Academic Integrity
+All students, faculty and staff are expected to follow the University’s guidelines and policies on academic integrity. For students, this means following the standards of academic honesty when writing assignments, citing and using source material appropriately and collaborating with fellow students. Ensure that the work you submit for grading represents your own honest efforts. Plagiarism representing someone else’s work as your own or submitting work that you have previously submitted for marks in another class or program is a serious offense that can result in sanctions. See Brown’s Pre-College Program code of conduct for the University’s expectations on academic honesty and integrity: https://precollege.brown.edu/policies#conduct
+
+**Copied material (code or otherwise) without citation of the author, whether verbatim or not, will be treated as plagiarism.** If you have any questions about plagiarizing code, please speak with me. 
+
+## Materials and Accessibility
+This course recommends a laptop for course-related programming, games/simulations, etc. Please note that some devices (e.g., Chromebooks) do not allow software downloads onto a desktop and so will not accommodate the specific needs of this course. If you have questions about this requirement please reach out to precollege@brown.edu. The course does not use any textbook. All software will be either installed in class or work in your browser and not require installation. We will discuss recommended browsers during our first day and use office hours to ensure everyone has a working machine.
+
+Students with diverse learning styles and needs are welcome in this course. Students may request accommodations for this course based on a learning, psychological and/or physical disability, including medical conditions, temporary injuries and significant food allergies. Please be aware that all accommodation requests will be considered, however there may be limits to what can be provided without sufficient notice.
+
+The Division of Pre-College and Summer Undergraduate Programs recommends submitting requests (via the Medical History and Health Authorization Form) a minimum of two weeks in advance of the program start date. Please email accessibility@brown.edu or call 401-863-1015 with any questions regarding the Division of Pre-College and Summer Undergraduate Programs or camps accessibility while on campus.
+
+Course materials are made available as a benefit to students enrolled in this course. Posting materials from class or from Canvas, including recordings of class, to third-party websites without permission is a violation of intellectual property. If you would like to post materials to another website, please speak to me first. In general, I am happy to share my resources with others who could benefit from them, but it is important to clear this with me.
