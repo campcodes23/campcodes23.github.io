@@ -18,3 +18,16 @@ Brown University, Summer 2023
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+
+<!-- dont add tabs it does not work -->
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{% assign today_date = 'now' | date: '%s' %}
+{% assign assign_date = announcement.date | date: '%s' %}
+{% if today_date > assign_date %}
+{{ announcement }}
+{% endif %}
+{% endfor %}
+
+

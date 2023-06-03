@@ -21,7 +21,7 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
-  - name: Monday 10th
+  - name: Mon. 10th
     events:
       - name: Lecture
         start: 8:30 AM
@@ -36,14 +36,14 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
-  - name: Tuesday 11th
+  - name: Tues. 11th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
         topic: Using Logic
-  - name: Wednesday 12th
+  - name: Wed. 12th
     events:
       - name: Lecture
         start: 8:30 AM
@@ -58,14 +58,14 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
-  - name: Thursday 13th
+  - name: Thurs. 13th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
         topic: Functions, Lists, & Dictionaries
-  - name: Friday 14th
+  - name: Fri. 14th
     events:
       - name: Lecture
         start: 8:30 AM
@@ -80,11 +80,11 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
-  - name: Saturday 15th
+  - name: Sat. 15th
     events:
-  - name: Sunday 16th
+  - name: Sun. 16th
     events:
-  - name: Monday 17th
+  - name: Mon. 17th
     events:
       - name: Lecture
         start: 8:30 AM
@@ -99,14 +99,14 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
-  - name: Tuesday 18th
+  - name: Tues. 18th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
         topic: Numpy and Matplotlib
-  - name: Wednesday 19th
+  - name: Wed. 19th
     events:
       - name: Lecture
         start: 8:30 AM
@@ -121,14 +121,14 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
-  - name: Thursday 20th
+  - name: Thurs. 20th
     events:
       - name: Lecture
         start: 8:30 AM
         end: 11:20 AM
         location: Metcalf 104
         topic: Programming and Society
-  - name: Friday 21st
+  - name: Fri. 21st
     events:
       - name: Lecture
         start: 8:30 AM

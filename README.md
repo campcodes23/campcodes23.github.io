@@ -14,4 +14,4 @@ this website is based on kevin lin's [just-the-class](https://github.com/kevinli
 
 # todo
 - [ ] choose office hours days, add to weekly.md. colors in schedule.scss
-- [ ] 
+- [ ] do other things

@@ -3,10 +3,10 @@
   <span class="announcement-meta">
     {% if page.date %}
     {{ page.date | date: '%b %e' }}
-    &middot;
+    <!-- &middot; --> <!-- lil dot-->
     {% endif %}
-    {% assign minutes = content | strip_html | number_of_words | divided_by: 180.0 | round %}
-    {{ minutes }} min read
+    <!-- {% assign minutes = content | strip_html | number_of_words | divided_by: 180.0 | round %} -->
+    <!-- {{ minutes }} min read --> <!-- add amnt of time to read-->
   </span>
   <div>
     {{ content }}
