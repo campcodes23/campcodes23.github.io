@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: Introduction to Programming in Python
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+July 10
+: [Introduction to Python](#)
+  : [HW](#), [Solutions](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+July 11
+: [Using Logic](#)
+  : [HW](#), [Solutions](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+July 12
+: [For and While Loops](#)
+  : [HW](#), [Solutions](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+July 13
+: [Functions, Lists, and Dictionaries](#)
+  : [HW](#), [Solutions](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+July 14
+: [Apply what you've learned](#)
+  : [HW](#), [Solutions](#)

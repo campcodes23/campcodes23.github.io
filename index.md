@@ -15,10 +15,6 @@ Brown University, Summer 2023
 <br><br>
 
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
-
 
 <!-- dont add tabs it does not work -->
 {% assign announcements = site.announcements | reverse %}
@@ -31,3 +27,6 @@ Brown University, Summer 2023
 {% endfor %}
 
 
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
