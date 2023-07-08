@@ -39,6 +39,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Using Logic
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Wed. 12th
     events:
       - name: Lecture
@@ -58,6 +62,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Functions, Lists, & Dictionaries
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Fri. 14th
     events:
       - name: Lecture
