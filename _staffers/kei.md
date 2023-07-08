@@ -4,7 +4,6 @@ role: Teaching Assistant
 email: ky@brown.edu
 website: https://kyoshida14.github.io
 photo: kei1.png
-office-hours: monday or something
 pronouns: she/her/hers
 ---
 

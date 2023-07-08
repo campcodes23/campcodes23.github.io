@@ -28,14 +28,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Introduction to Python
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Tues. 11th
     events:
       - name: Lecture
@@ -50,14 +46,11 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: For and While Loops
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
         location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Thurs. 13th
     events:
       - name: Lecture
@@ -72,14 +65,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Apply what you've learned- tournament day
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Sat. 15th
     events:
   - name: Sun. 16th
@@ -91,14 +80,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: External Data and Coding Community
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Tues. 18th
     events:
       - name: Lecture
@@ -106,6 +91,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Numpy and Matplotlib
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Wed. 19th
     events:
       - name: Lecture
@@ -113,14 +102,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Pandas and Data Science
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
       - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Thurs. 20th
     events:
       - name: Lecture
@@ -128,6 +113,10 @@ schedule:
         end: 11:20 AM
         location: Metcalf 104
         topic: Programming and Society
+      - name: Office Hours
+        start: 1:00 PM
+        end: 3:30 PM
+        location: Metcalf 104
   - name: Fri. 21st
     events:
       - name: Lecture
