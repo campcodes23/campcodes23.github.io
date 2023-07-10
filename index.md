@@ -11,7 +11,7 @@ Brown University, Summer 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <!-- ## Note: This page is under construction. Everything on this website is subject to change. -->
-(Office Hours Zoom Link)[https://brown.zoom.us/j/92647614655]
+
 <br><br>
 
 
