@@ -3,7 +3,7 @@ title: Introduction to Programming in Python
 ---
 
 July 10
-: [Introduction to Python](#)
+: [Introduction to Python](/assets/slides/slides_day1.pdf)
   : [HW](/assets/hws/hw1_blank.pdf), [Solutions](#)
 
 July 11
