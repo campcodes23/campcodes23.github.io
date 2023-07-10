@@ -4,7 +4,7 @@ title: Introduction to Programming in Python
 
 July 10
 : [Introduction to Python](#)
-  : [HW](#), [Solutions](#)
+  : [HW](/assets/hws/hw1_blank.pdf), [Solutions](#)
 
 July 11
 : [Using Logic](#)
