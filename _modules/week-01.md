@@ -8,11 +8,11 @@ July 10
 
 July 11
 : [Using Logic](/assets/slides/slides_day2.pdf)
-  : [HW](/assets/hws/hw2_blank.pdf), [Solutions](#)
+  : [HW](/assets/hws/hw2_blank.pdf), [Solutions](/assets/hws/hw2_solutions.pdf)
 
 July 12
 : [For and While Loops](/assets/slides/slides_day3.pdf)
-  : [HW](#), [Solutions](#)
+  : [HW](/assets/hws/hw3_blank.pdf), [Solutions](#)
 
 July 13
 : [Functions, Lists, and Dictionaries](#)
