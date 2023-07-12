@@ -11,7 +11,7 @@ July 11
   : [HW](/assets/hws/hw2_blank.pdf), [Solutions](#)
 
 July 12
-: [For and While Loops](#)
+: [For and While Loops](/assets/slides/slides_day3.pdf)
   : [HW](#), [Solutions](#)
 
 July 13
