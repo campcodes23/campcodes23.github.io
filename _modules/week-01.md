@@ -15,8 +15,8 @@ July 12
   : [HW](/assets/hws/hw3_blank.pdf), [Solutions](#)
 
 July 13
-: [Functions, Lists, and Dictionaries](#)
-  : [HW](#), [Solutions](#)
+: [Functions, Lists, and Dictionaries](/assets/slides/slides_day4.pdf)
+  : [HW](/assets/hws/hw4_blank.pdf), [Solutions](#)
 
 July 14
 : [Apply what you've learned](#)
