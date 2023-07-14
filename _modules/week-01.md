@@ -19,5 +19,5 @@ July 13
   : [HW](/assets/hws/hw4_blank.pdf), [Solutions](#)
 
 July 14
-: [Apply what you've learned](/assets/slides/slides_day4.pdf)
+: [Apply what you've learned](/assets/slides/slides_day5.pdf)
   : [HW](#), [Solutions](#)
