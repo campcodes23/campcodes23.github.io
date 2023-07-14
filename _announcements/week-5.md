@@ -4,4 +4,4 @@ week: 5
 date: 2023-07-14
 ---
 Tournament!
-Extra optional problems (here)[https://campcodes23.github.io/assets/other/extra.pdf]
+Extra optional problems [here](/assets/other/extra.pdf)
