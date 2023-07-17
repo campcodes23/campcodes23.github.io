@@ -1,0 +1,433 @@
+arrest_date,year,month,gender,race,ethnicity,year_of_birth,age,from_address,from_city,from_state,statute_type,statute_desc,counts,case_number
+2019-08-24T02:02:00.0,2019,8,Female,Black,NonHispanic,1984,34,DOUGLAS AVE,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00084126
+2019-08-24T02:02:00.0,2019,8,Female,Black,NonHispanic,1984,34,DOUGLAS AVE,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00084126
+2019-08-23T16:02:00.0,2019,8,Female,Black,NonHispanic,1974,45,SALMON ST,Providence,Rhode Island,RI Statute Violation,VANDALISM/MALICIOUS INJURY TO PROPERTY,1,2019-00083913
+2019-08-23T16:02:00.0,2019,8,Female,Black,NonHispanic,1974,45,SALMON ST,Providence,Rhode Island,Municipal Code Violation,Disorderly and Indecent Conduct B - Loud Noise,1,2019-00083913
+2019-08-23T14:00:00.0,2019,8,Male,Black,NonHispanic,1972,47,ALTHEA ST,Providence,New Mexico,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00083882
+2019-08-23T12:00:00.0,2019,8,Male,Black,NonHispanic,1988,30,KENDRICK AVE,WOONSOCKETT,Missouri,RI Statute Violation,MANUFACTURE/POSS/DELIVER SCH III/IV,1,2019-00083859
+2019-08-23T12:00:00.0,2019,8,Male,Black,NonHispanic,1988,30,KENDRICK AVE,WOONSOCKETT,Missouri,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00083859
+2019-08-22T19:37:00.0,2019,8,Male,White,NonHispanic,1977,41,FAIRMOUNT AVE,Providence,Rhode Island,RI Statute Violation,VIOLATION -NO CONTACT ORDER,1,2019-00083622
+2019-08-22T15:05:00.0,2019,8,Male,Black,NonHispanic,1980,38,No Permanent Address,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00083539
+2019-08-22T12:05:00.0,2019,8,Male,White,Hispanic,1999,20,ROCKINGHAM ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00083486
+2019-08-21T12:03:00.0,2019,8,Male,White,NonHispanic,1974,45,POTTERS ST,EAST PROVIDENCE,Rhode Island,RI Statute Violation,SHOPLIFTING-IMPLEMENTS OF CONCEALMENT - SHOPLIFTING,1,2019-00083148
+2019-08-20T23:34:00.0,2019,8,Male,Black,NonHispanic,1990,28,CHARLES ST,Providence,Rhode Island,RI Statute Violation,VIOLATION FOREIGN PROTECTIVE ORDER,1,2019-00082569
+2019-08-20T02:47:00.0,2019,8,Female,White,NonHispanic,1955,63,WOODBINE STREET,CRANSTON,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00082603
+2019-08-20T02:00:00.0,2019,8,Male,White,Hispanic,1999,19,MINK RD,Providence,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00078616
+2019-08-20T00:00:00.0,2019,8,Male,White,NonHispanic,1992,27,ACORN ST,Providence,Rhode Island,RI Statute Violation,CONTROLLED SUBSTANCE CONSPIRACY,1,2019-00082823
+2019-08-20T00:00:00.0,2019,8,Male,White,NonHispanic,1992,27,ACORN ST,Providence,Rhode Island,RI Statute Violation,MANUFACTURE/POSS/DELIVER SCH III/IV,1,2019-00082823
+2019-08-20T00:00:00.0,2019,8,Male,White,NonHispanic,1992,27,ACORN ST,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00082823
+2019-08-19T14:20:00.0,2019,8,Male,White,Hispanic,1976,42,WHELAN RD,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00082422
+2019-08-19T14:20:00.0,2019,8,Male,White,Hispanic,1976,42,WHELAN RD,Providence,Rhode Island,RI Statute Violation,DOMESTIC-VANDALISM/MALICIOUS INJURY TO PROP,1,2019-00082422
+2019-08-19T00:58:00.0,2019,8,Male,White,NonHispanic,1975,43,No Permanent Address,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00082238
+2019-08-18T11:39:00.0,2019,8,Male,Black,NonHispanic,1978,41,LISBON ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00082000
+2019-08-16T20:31:00.0,2019,8,Male,White,NonHispanic,1993,25,FRUITHILL AVE,NORTH PROVIDENCE,Rhode Island,RI Statute Violation,Chemical Test Refusal,1,2019-00081339
+2019-08-16T12:14:00.0,2019,8,Male,White,Hispanic,1964,55,TOBEY ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00081151
+2019-08-16T03:01:00.0,2019,8,Male,White,Hispanic,1984,34,ATWELLS AVE,Providence,Rhode Island,RI Statute Violation,VIOLATION -NO CONTACT ORDER,1,2019-00080981
+2019-08-16T03:01:00.0,2019,8,Male,White,Hispanic,1984,34,ATWELLS AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-DISORDERLY CONDUCT,1,2019-00080981
+2019-08-16T03:01:00.0,2019,8,Male,White,Hispanic,1984,34,ATWELLS AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-CRANK OR OBSCENE PHONE CALLS - DOMESTI,1,2019-00080981
+2019-08-16T00:00:00.0,2019,8,Male,White,NonHispanic,1993,25,BASIL CROSSING,CRANSTON,Rhode Island,RI Statute Violation,FELONY ASSAULT/ DANG. WEAPON OR SUBSTANCE,1,2019-00075424
+2019-08-15T12:19:00.0,2019,8,Male,Black,NonHispanic,1972,47,ALTHEA ST,Providence,New Mexico,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00080697
+2019-08-14T20:50:00.0,2019,8,Male,White,Hispanic,1992,27,PONAGANSETT AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Revocation or Suspension for Misd.",1,2019-00080441
+2019-08-13T23:39:00.0,2019,8,Female,Black,NonHispanic,1976,43,VERMONT AVE,Providence,Rhode Island,RI Statute Violation,Chemical Test Refusal,1,2019-00080135
+2019-08-13T23:39:00.0,2019,8,Female,Black,NonHispanic,1976,43,VERMONT AVE,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00080135
+2019-08-13T10:49:00.0,2019,8,Female,White,Hispanic,1974,45,ALTHEA ST,Providence,Rhode Island,RI Statute Violation,VANDALISM/MALICIOUS INJURY TO PROPERTY,2,2019-00079896
+2019-08-12T01:37:00.0,2019,8,Male,White,Hispanic,1995,24,HAROLD ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00079460
+2019-08-11T20:23:00.0,2019,8,Male,Unknown,Hispanic,1976,43,PEACE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00079309
+2019-08-11T16:53:00.0,2019,8,Male,White,Hispanic,1987,32,MONTICELLO ST,Providence,Rhode Island,RI Statute Violation,RECKLESS OPERATING OF MOTORBOAT,1,2019-00079923
+2019-08-11T15:25:00.0,2019,8,Male,Black,NonHispanic,1996,23,RANKIN AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Revocation or Suspension for Misd.",1,2019-00079188
+2019-08-10T20:55:00.0,2019,8,Male,Black,NonHispanic,1997,22,WESTMINSTER ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00078849
+2019-08-10T15:54:00.0,2019,8,Female,White,NonHispanic,1954,64,WEST MAIN STREET,Norton,Massachusetts,RI Statute Violation,SHOPLIFTING-MISD - SHOPLIFTING,1,2019-00078736
+2019-08-10T13:57:00.0,2019,8,Female,Black,NonHispanic,1994,25,ARTHUR AVE,EAST PROVIDENCE,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00078702
+2019-08-10T00:00:00.0,2019,8,Female,White,NonHispanic,1966,53,METCALF ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00078630
+2019-08-09T19:20:00.0,2019,8,Male,White,NonHispanic,1988,31,HANOVER ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00078412
+2019-08-09T13:00:00.0,2019,8,Female,Black,Hispanic,1995,24,BARBARA ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00078304
+2019-08-08T16:44:00.0,2019,8,Female,Black,NonHispanic,1993,25,RHODES ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00077974
+2019-08-07T11:27:00.0,2019,8,Female,White,Hispanic,2001,18,BROWN STREET,East Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00077465
+2019-08-07T00:06:00.0,2019,8,Male,White,Hispanic,1990,28,BAXTER ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00077354
+2019-08-07T00:06:00.0,2019,8,Male,White,Hispanic,1990,28,BAXTER ST,Providence,Rhode Island,RI Statute Violation,OBSTRUCTING OFFICER IN EXECUTION OF DUTY,1,2019-00077354
+2019-08-07T00:06:00.0,2019,8,Male,White,Hispanic,1990,28,BAXTER ST,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00077354
+2019-08-07T00:06:00.0,2019,8,Male,White,Hispanic,1990,28,BAXTER ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00077354
+2019-08-07T00:00:00.0,2019,8,Male,Black,NonHispanic,1998,21,JOSLIN ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00077644
+2019-08-06T23:52:00.0,2019,8,Male,White,Hispanic,1999,20,SACKETT ST,Providence,Rhode Island,RI Statute Violation,SECOND DEGREE CHILD MOLESTATION,1,2019-00077274
+2019-08-06T10:37:00.0,2019,8,Female,White,NonHispanic,1988,31,GARFIELD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00077072
+2019-08-06T10:00:00.0,2019,8,Female,White,Hispanic,1987,31,MANTON AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00077059
+2019-08-06T00:57:00.0,2019,8,Male,White,Hispanic,2000,18,LYNCH STREET,PROVIDENCE,Rhode Island,RI Statute Violation,WEAPONS OTHER THAN FIREARMS PROHIBITED,1,2019-00076968
+2019-08-06T00:00:00.0,2019,8,Female,Black,NonHispanic,1993,26,GLENHAM ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00076989
+2019-08-06T00:00:00.0,2019,8,Male,Black,NonHispanic,1989,29,GLADSTONE ST,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00077228
+2019-08-06T00:00:00.0,2019,8,Male,Black,NonHispanic,1989,29,GLADSTONE ST,Providence,Rhode Island,RI Statute Violation,ASSAULT OF POLICE OFFICERS AND OTHER OFFICIALS - SERIOUS INJURY,1,2019-00077228
+2019-08-06T00:00:00.0,2019,8,Male,Black,NonHispanic,1989,29,GLADSTONE ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00077228
+2019-08-05T19:39:00.0,2019,8,Male,Black,NonHispanic,1985,33,LANCASHIRE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00076867
+2019-08-05T16:39:00.0,2019,8,Male,White,Hispanic,1984,35,STERRY ST,PAWTUCKET,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00076777
+2019-08-05T09:44:00.0,2019,8,Male,Unknown,Unknown,1994,25,MOOREFIELD ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00076634
+2019-08-03T21:42:00.0,2019,8,Male,Black,NonHispanic,1987,32,PONTIAC AVE,CRANSTON,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00076067
+2019-08-03T19:32:00.0,2019,8,Male,White,Hispanic,1968,50,DYER AVE,Cranston,Rhode Island,RI Statute Violation,Driving Without Consent of Owner,1,2019-00075817
+2019-08-02T11:23:00.0,2019,8,Male,White,Hispanic,1959,60,WENDELL ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00075319
+2019-08-02T11:15:00.0,2019,8,Male,White,NonHispanic,1979,40,BRANCH AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00075317
+2019-08-01T18:18:00.0,2019,8,Male,Black,NonHispanic,1968,50,CHAPIN ST.,PROVIDENCE,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00075053
+2019-08-01T16:07:00.0,2019,8,Male,White,Hispanic,1982,36,OCHSNER PL,BRIDGEPORT,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00074991
+2019-08-01T06:00:00.0,2019,8,Male,White,NonHispanic,1987,32,ELM ST,Dighton,Massachusetts,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00062031
+2019-08-01T01:50:00.0,2019,8,Female,Black,NonHispanic,1992,27,CYPRESS ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00074808
+2019-08-01T01:43:00.0,2019,8,Male,Black,NonHispanic,1980,39,CHALKSTONE AVE,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00074809
+2019-08-01T00:31:00.0,2019,8,Male,White,Hispanic,1993,26,LAURA ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00074789
+2019-07-31T15:42:00.0,2019,7,Male,Black,NonHispanic,1987,31,DODGE ST,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00074584
+2019-07-31T15:42:00.0,2019,7,Unknown,Unknown,Hispanic,1970,49,LAUREL HILL AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00074584
+2019-07-31T11:47:00.0,2019,7,Male,White,Unknown,1970,48,GADOURY DR,Coventry,Rhode Island,RI Statute Violation,SHOPLIFTING-MISD - SHOPLIFTING,1,2019-00074498
+2019-07-30T22:11:00.0,2019,7,Male,White,Hispanic,1988,30,PROGRESS AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00074323
+2019-07-30T20:41:00.0,2019,7,Male,White,Hispanic,1975,43,SALMON ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00074283
+2019-07-30T00:31:00.0,2019,7,Male,White,NonHispanic,1969,49,NORFOLK AVE,Pawtucket,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00073959
+2019-07-29T14:20:00.0,2019,7,Male,Black,Hispanic,1986,33,OHIO AVE,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-IMPLEMENTS OF CONCEALMENT - SHOPLIFTING,5,2019-00073748
+2019-07-28T23:28:00.0,2019,7,Male,White,Hispanic,1982,36,CONGRESS AVE,Providence,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00073559
+2019-07-28T23:28:00.0,2019,7,Male,White,Hispanic,1982,36,CONGRESS AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00073559
+2019-07-28T19:42:00.0,2019,7,Male,White,NonHispanic,1962,57,GROVE ST,LINCOLN,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00073465
+2019-07-28T19:42:00.0,2019,7,Male,White,NonHispanic,1962,57,GROVE ST,LINCOLN,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00073465
+2019-07-28T15:30:00.0,2019,7,Male,Black,Hispanic,1993,25,MASSIE ST,PROVIDENCE,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00073392
+2019-07-28T15:28:00.0,2019,7,Female,Black,NonHispanic,1988,30,CHAD BROWN ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00073366
+2019-07-27T16:09:00.0,2019,7,Male,Black,NonHispanic,1994,25,RUSHMORE AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00072947
+2019-07-27T00:33:00.0,2019,7,Male,Black,Hispanic,1981,38,KINFIELD ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00072319
+2019-07-27T00:33:00.0,2019,7,Male,Black,Hispanic,1981,38,KINFIELD ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-DISORDERLY CONDUCT,1,2019-00072319
+2019-07-26T19:19:00.0,2019,7,Female,Black,NonHispanic,1979,39,JULIAN ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00072596
+2019-07-26T19:19:00.0,2019,7,Female,Black,NonHispanic,1979,39,JULIAN ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,2,2019-00072596
+2019-07-26T18:11:00.0,2019,7,Male,White,NonHispanic,1963,56,ELMWOOD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00072571
+2019-07-26T09:39:00.0,2019,7,Female,Black,Unknown,1990,28,ARGYLE ST,Cranston,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00072389
+2019-07-25T21:28:00.0,2019,7,Male,White,NonHispanic,1978,41,CRANSTON ST,Providence,Rhode Island,Municipal Code Violation,Disorderly and indecent conduct A - Theatening,1,2019-00072218
+2019-07-24T23:09:00.0,2019,7,Female,White,NonHispanic,1988,31,DOYLE AVE,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00071859
+2019-07-24T19:26:00.0,2019,7,Male,White,NonHispanic,1969,50,POTTERS AVE,Providence,Rhode Island,RI Statute Violation,SECOND DEGREE CHILD MOLESTATION,2,2019-00062254
+2019-07-24T16:00:00.0,2019,7,Male,Black,NonHispanic,1989,30,EAGLE ST,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00071781
+2019-07-24T00:00:00.0,2019,7,Male,Black,NonHispanic,1986,33,PLEASANT ST,PROVIDENCE,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00071473
+2019-07-23T23:54:00.0,2019,7,Female,White,NonHispanic,1977,42,DEXTER STREET,CUMBERLAND,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00071470
+2019-07-23T22:30:00.0,2019,7,Male,Black,Hispanic,1994,25,ATLANTIC AVE,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00071434
+2019-07-23T22:30:00.0,2019,7,Male,Black,Hispanic,1994,25,ATLANTIC AVE,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00071434
+2019-07-23T11:44:00.0,2019,7,Male,Black,NonHispanic,1985,34,OPPER ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00071223
+2019-07-22T23:15:00.0,2019,7,Male,Black,NonHispanic,1973,46,BRANCH,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00070711
+2019-07-22T16:49:00.0,2019,7,Female,White,NonHispanic,1979,39,PLAINFIELD ST,Cranston,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00070961
+2019-07-22T16:49:00.0,2019,7,Female,White,NonHispanic,1979,39,PLAINFIELD ST,Cranston,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00070961
+2019-07-22T09:00:00.0,2019,7,Male,White,NonHispanic,1988,31,CHERRY HILL RD,Johnston,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00070824
+2019-07-21T11:51:00.0,2019,7,Male,White,Hispanic,1957,62,POTTERS AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00070525
+2019-07-21T01:20:00.0,2019,7,Male,White,NonHispanic,1994,25,ONTARIO ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00070386
+2019-07-20T11:52:00.0,2019,7,Male,White,Hispanic,1982,36,CONGRESS AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00070127
+2019-07-20T02:46:00.0,2019,7,Male,Black,Hispanic,1993,25,GALEGO CT,Pawtucket,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00070010
+2019-07-20T02:46:00.0,2019,7,Male,Black,Hispanic,1993,25,GALEGO CT,Pawtucket,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00070010
+2019-07-20T02:46:00.0,2019,7,Male,Black,Hispanic,1993,25,GALEGO CT,Pawtucket,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00070010
+2019-07-20T00:43:00.0,2019,7,Male,Black,NonHispanic,1988,31,ALANTIC AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00069970
+2019-07-20T00:00:00.0,2019,7,Female,White,NonHispanic,1980,39,No Permanent Address,Providence,Rhode Island,Municipal Code Violation,Disorderly Conduct D - Obstruct,1,2019-00070107
+2019-07-20T00:00:00.0,2019,7,Male,White,Hispanic,1978,40,ACADEMY AVE,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-MISD - SHOPLIFTING,1,2019-00070065
+2019-07-19T22:13:00.0,2019,7,Male,White,NonHispanic,1999,20,VERMONT ST,Cranston,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00069920
+2019-07-19T11:40:00.0,2019,7,Male,White,NonHispanic,1984,35,HOWARD AVE,CRANSTON,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00069694
+2019-07-19T00:07:00.0,2019,7,Male,Black,NonHispanic,1991,28,RICHARDSON ST,CENTRAL FALLS,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00069556
+2019-07-19T00:07:00.0,2019,7,Male,Black,NonHispanic,1991,28,RICHARDSON ST,CENTRAL FALLS,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00069556
+2019-07-19T00:00:00.0,2019,7,Male,Black,NonHispanic,1991,27,LINWOOD AVE,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00069850
+2019-07-19T00:00:00.0,2019,7,Male,Black,NonHispanic,1991,27,LINWOOD AVE,Providence,Rhode Island,RI Statute Violation,IMPERSONATION OF PUBLIC OFFICER,1,2019-00069850
+2019-07-19T00:00:00.0,2019,7,Male,Black,NonHispanic,1991,27,LINWOOD AVE,Providence,Rhode Island,RI Statute Violation,Duty to Stop in Accidents Resulting in Damage to Attended Vehicles,1,2019-00069850
+2019-07-19T00:00:00.0,2019,7,Male,Black,NonHispanic,1991,27,LINWOOD AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Revocation or Suspension for Misd.",1,2019-00069850
+2019-07-18T17:06:00.0,2019,7,Male,White,Hispanic,1997,22,TAYLOR ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00069419
+2019-07-17T22:23:00.0,2019,7,Male,White,NonHispanic,1998,20,DORA ST,Pawtucket,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00069154
+2019-07-17T22:23:00.0,2019,7,Male,White,NonHispanic,1998,20,DORA ST,Pawtucket,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00069154
+2019-07-17T22:23:00.0,2019,7,Male,White,NonHispanic,1998,20,DORA ST,Pawtucket,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00069154
+2019-07-17T22:23:00.0,2019,7,Male,White,NonHispanic,1998,20,DORA ST,Pawtucket,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00069154
+2019-07-17T22:23:00.0,2019,7,Male,White,NonHispanic,1998,20,DORA ST,Pawtucket,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,2,2019-00069154
+2019-07-17T15:00:00.0,2019,7,Male,White,NonHispanic,1989,30,BATH ST,Providence,Massachusetts,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00069019
+2019-07-17T00:00:00.0,2019,7,Male,White,Hispanic,1983,36,DOUGLAS AVE,Providence,Rhode Island,RI Statute Violation,Driving on Expired License,1,2019-00069050
+2019-07-16T18:49:00.0,2019,7,Male,Black,NonHispanic,1959,59,CALLA ST,Providence,Rhode Island,RI Statute Violation,UNNECESSARY CRUELTY TO ANIMALS,1,2019-00068709
+2019-07-16T16:53:00.0,2019,7,Male,White,NonHispanic,1984,34,HAWKINS ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00068653
+2019-07-16T16:53:00.0,2019,7,Male,White,NonHispanic,1984,34,HAWKINS ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED - OUT OF STATE,1,2019-00068653
+2019-07-16T09:05:00.0,2019,7,Male,Black,NonHispanic,1973,45,FORD ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00068514
+2019-07-16T00:00:00.0,2019,7,Male,White,Hispanic,1983,35,GRAPE ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00068441
+2019-07-15T00:56:00.0,2019,7,Male,White,Hispanic,1986,32,PUBLIC ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,2,2019-00068059
+2019-07-15T00:47:00.0,2019,7,Female,White,NonHispanic,1988,31,GARFIELD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00068056
+2019-07-15T00:00:00.0,2019,7,Female,White,NonHispanic,1987,32,ROBINSON ST,WOONSOCKET,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00068364
+2019-07-14T22:25:00.0,2019,7,Male,White,Hispanic,1981,38,TUXEDO AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00068020
+2019-07-14T18:08:00.0,2019,7,Male,Black,Hispanic,1994,24,LAUREL HILL AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00067933
+2019-07-14T17:14:00.0,2019,7,Female,Black,Hispanic,1962,56,GRAND ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00067912
+2019-07-14T11:30:00.0,2019,7,Male,Black,NonHispanic,1977,41,CARPENTER STREET,providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00067810
+2019-07-14T00:00:00.0,2019,7,Male,Black,NonHispanic,1966,52,GLENHAM,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00067702
+2019-07-13T21:50:00.0,2019,7,Male,Black,NonHispanic,1977,41,LAMBERT ST,Cranston,Rhode Island,RI Statute Violation,Chemical Test Refusal,1,2019-00067584
+2019-07-13T21:50:00.0,2019,7,Male,Black,NonHispanic,1977,41,LAMBERT ST,Cranston,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00067584
+2019-07-13T21:50:00.0,2019,7,Male,Black,NonHispanic,1977,41,LAMBERT ST,Cranston,Rhode Island,RI Statute Violation,Duty in Accident Resulting in Damage to Highway Fixture,1,2019-00067584
+2019-07-13T17:37:00.0,2019,7,Male,Black,NonHispanic,1996,23,VERMONT AVE,Providence,Rhode Island,RI Statute Violation,POSSESSION OF MARIJUANA-1st OFFENSE,1,2019-00067507
+2019-07-13T03:48:00.0,2019,7,Male,White,NonHispanic,1997,21,SMITH ST,ATTLEBORO,Massachusetts,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00067343
+2019-07-13T02:16:00.0,2019,7,Female,White,NonHispanic,1994,25,GILDFORD CT,West Hemstead,New York,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00067314
+2019-07-12T23:35:00.0,2019,7,Male,Unknown,Unknown,1972,46,PARK AVENUE,Cranston,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00067248
+2019-07-12T02:06:00.0,2019,7,Female,White,Hispanic,1990,29,PLEASANT ST,PAWTUCKET,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00066872
+2019-07-12T00:30:00.0,2019,7,Female,Black,Unknown,1990,28,GAGE ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00066811
+2019-07-11T20:17:00.0,2019,7,Female,Black,NonHispanic,1994,24,MITCHELL ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00069290
+2019-07-11T08:00:00.0,2019,7,Male,Black,NonHispanic,1979,40,DENISON ST,Providence,Rhode Island,RI Statute Violation,SEXUAL ASSAULT -1ST DEGREE - FRC RAPE,1,2009-00012907
+2019-07-11T04:10:00.0,2019,7,Female,White,NonHispanic,1994,24,BRIARBROOK DRIVE,NORTH KINGSTOWN,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00066485
+2019-07-10T17:28:00.0,2019,7,Male,White,NonHispanic,1993,26,NEWPORT AVE,PAWTUCKET,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00066290
+2019-07-10T16:27:00.0,2019,7,Male,White,NonHispanic,1988,30,JEWETT ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00066262
+2019-07-10T16:09:00.0,2019,7,Female,White,Hispanic,1995,24,MANTON AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00066253
+2019-07-10T02:20:00.0,2019,7,Female,White,NonHispanic,1984,35,HAVERHILL,Lawrence,Massachusetts,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00066077
+2019-07-10T02:20:00.0,2019,7,Female,White,NonHispanic,1984,35,HAVERHILL,Lawrence,Massachusetts,RI Statute Violation,DOMESTIC-VANDALISM/MALICIOUS INJURY TO PROP,1,2019-00066077
+2019-07-09T16:56:00.0,2019,7,Female,White,Hispanic,1982,36,FAIRVIEW ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065883
+2019-07-09T16:42:00.0,2019,7,Male,Black,Hispanic,1993,25,MASSIE ST,PROVIDENCE,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065872
+2019-07-09T16:04:00.0,2019,7,Male,White,Hispanic,1995,24,REYNOLDS AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065857
+2019-07-09T13:14:00.0,2019,7,Male,White,Hispanic,1992,27,LINTON ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065795
+2019-07-09T08:38:00.0,2019,7,Female,Black,NonHispanic,1993,26,VEAZIE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065705
+2019-07-09T08:00:00.0,2019,7,Male,Black,NonHispanic,1995,24,COACHMAN PIKE,Ledyard,Connecticut,RI Statute Violation,MURDER-1ST DEGREE,1,2019-00062005
+2019-07-09T08:00:00.0,2019,7,Male,Black,NonHispanic,1995,24,COACHMAN PIKE,Ledyard,Connecticut,RI Statute Violation,CONSPIRACY - BAD CHECK,1,2019-00062005
+2019-07-09T01:20:00.0,2019,7,Female,Black,NonHispanic,1983,36,DARLING ST,Central Falls,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065652
+2019-07-09T00:05:00.0,2019,7,Male,White,Hispanic,1986,33,LEDGE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065630
+2019-07-09T00:04:00.0,2019,7,Male,Black,NonHispanic,1966,52,BELLEVUE AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,3,2019-00065632
+2019-07-08T16:04:00.0,2019,7,Female,White,Hispanic,1994,24,WHITEHALL ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00065461
+2019-07-08T15:40:00.0,2019,7,Male,Black,NonHispanic,1964,55,WILLARD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00065449
+2019-07-08T15:27:00.0,2019,7,Male,White,NonHispanic,1962,57,PINE ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-PROTECTIVE ORDERS,1,2019-00065448
+2019-07-08T15:27:00.0,2019,7,Female,White,NonHispanic,1983,35,HOME AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-PROTECTIVE ORDERS,1,2019-00065448
+2019-07-08T00:06:00.0,2019,7,Male,White,NonHispanic,1990,29,ROCLAND ROAD,SCITUATE,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00065267
+2019-07-07T12:30:00.0,2019,7,Male,Black,NonHispanic,1981,37,CANAL ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00065007
+2019-07-07T12:30:00.0,2019,7,Male,Black,NonHispanic,1981,37,CANAL ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00065007
+2019-07-06T21:51:00.0,2019,7,Female,White,NonHispanic,1981,38,TRENTON ST,Boston,Massachusetts,RI Statute Violation,Chemical Test Refusal,1,2019-00064780
+2019-07-06T21:51:00.0,2019,7,Female,White,NonHispanic,1981,38,TRENTON ST,Boston,Massachusetts,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00064780
+2019-07-06T18:57:00.0,2019,7,Male,White,Hispanic,1985,33,UNKNOWN,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00064747
+2019-09-24T00:13:00.0,2019,9,Male,Black,NonHispanic,1967,52,RITCHER STREET,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00096644
+2019-09-24T00:13:00.0,2019,9,Male,Black,NonHispanic,1967,52,RITCHER STREET,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00096644
+2019-09-24T00:13:00.0,2019,9,Male,Black,NonHispanic,1967,52,RITCHER STREET,Providence,Rhode Island,RI Statute Violation,OBSTRUCTING OFFICER IN EXECUTION OF DUTY,1,2019-00096644
+2019-09-23T20:20:00.0,2019,9,Male,White,NonHispanic,1973,46,BROAD ST,Providence,Rhode Island,RI Statute Violation,B&E DWELLING HOUSE W/O CONSENT,1,2018-00108975
+2019-09-23T09:49:00.0,2019,9,Male,White,Hispanic,1975,44,BELCREST RD,Cranston,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00096314
+2019-09-23T00:27:00.0,2019,9,Male,Black,NonHispanic,1979,40,CROWNINSHIELD ST,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00096194
+2019-09-22T22:39:00.0,2019,9,Female,Unknown,Hispanic,1996,23,LONG ST,warwick,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00096163
+2019-09-22T19:37:00.0,2019,9,Male,White,Hispanic,1986,32,REGENT AVE,Providence,Rhode Island,RI Statute Violation,ASSAULT OF POLICE OFFICERS AND OTHER OFFICIALS - MINOR INJURY,1,2019-00096107
+2019-09-22T01:58:00.0,2019,9,Male,White,Hispanic,1990,28,SALMON ST,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00095810
+2019-09-22T01:58:00.0,2019,9,Male,White,Hispanic,1990,28,SALMON ST,Providence,Rhode Island,Municipal Code Violation,Disorderly and indecent conduct A - Theatening,1,2019-00095810
+2019-09-22T01:01:00.0,2019,9,Male,Black,NonHispanic,1980,39,VEAZIE ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00095780
+2019-09-21T23:38:00.0,2019,9,Male,White,Hispanic,1960,58,TOURO AVE,PROVIDENCE,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00095676
+2019-09-21T20:29:00.0,2019,9,Male,White,Hispanic,1976,42,WALLACE ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00095653
+2019-09-20T18:30:00.0,2019,9,Male,Black,NonHispanic,1991,28,GODDARD ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00081679
+2019-09-20T00:00:00.0,2019,9,Female,White,Hispanic,1991,27,HOME AVE,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00094865
+2019-09-19T12:35:00.0,2019,9,Female,Black,Hispanic,1978,40,SALEM STREET,Lynnfield,Massachusetts,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094577
+2019-09-18T20:00:00.0,2019,9,Male,White,NonHispanic,1981,37,MARISA LN,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00094372
+2019-09-18T18:00:00.0,2019,9,Male,White,NonHispanic,1981,37,MARISA LN,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00094327
+2019-09-18T16:26:00.0,2019,9,Female,White,Hispanic,1970,49,HAMLIN ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094285
+2019-09-18T16:14:00.0,2019,9,Male,White,Hispanic,1979,40,PUBLIC ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094276
+2019-09-18T12:07:00.0,2019,9,Male,Black,NonHispanic,1983,36,HAROLD ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094199
+2019-09-18T12:05:00.0,2019,9,Male,White,Hispanic,1985,34,RILL ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094197
+2019-09-18T00:55:00.0,2019,9,Female,Black,NonHispanic,1993,26,GLENHAM ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094066
+2019-09-17T17:15:00.0,2019,9,Male,White,Hispanic,1957,62,VEAZIE ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-FELONY ASSAULT,1,2019-00093917
+2019-09-17T16:36:00.0,2019,9,Female,Black,Unknown,1979,40,HARRIET ST,Providence,Rhode Island,RI Statute Violation,Driving Without Consent of Owner,1,2019-00093897
+2019-09-17T15:30:00.0,2019,9,Male,Black,NonHispanic,1988,30,VIEZIE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00093843
+2019-09-16T16:57:00.0,2019,9,Male,White,Hispanic,1951,68,PLEASANT VALLEY PKWY,Providence,Rhode Island,RI Statute Violation,DOMESTIC-FELONY ASSAULT,1,2019-00093507
+2019-09-16T16:05:00.0,2019,9,Male,White,Hispanic,1988,30,LINCOLN AVE,Central Falls,Rhode Island,RI Statute Violation,Habitual Offender,1,2019-00093435
+2019-09-16T16:05:00.0,2019,9,Male,White,Hispanic,1988,30,LINCOLN AVE,Central Falls,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00093435
+2019-09-16T15:30:00.0,2019,9,Male,Black,NonHispanic,1994,25,SILVER SPRING AVE,Providence,Rhode Island,RI Statute Violation,Habitual Offender,1,2019-00093435
+2019-09-16T15:30:00.0,2019,9,Male,Black,NonHispanic,1994,25,SILVER SPRING AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00093435
+2019-09-15T18:00:00.0,2019,9,Male,White,Hispanic,1959,60,No Permanent Address,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,2,2019-00093110
+2019-09-15T00:00:00.0,2019,9,Male,Black,NonHispanic,1988,31,WAVERLY ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00093214
+2019-09-14T16:31:00.0,2019,9,Male,Black,NonHispanic,1978,41,SMITH ST,Cranston,Massachusetts,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00092643
+2019-09-14T04:24:00.0,2019,9,Male,White,NonHispanic,1975,43,4TH STREET,EAST PROVIDENCE,Rhode Island,RI Statute Violation,OBSTRUCTING OFFICER IN EXECUTION OF DUTY,1,2019-00092471
+2019-09-14T04:24:00.0,2019,9,Male,White,NonHispanic,1975,43,4TH STREET,EAST PROVIDENCE,Rhode Island,RI Statute Violation,POSSESSION OF MARIJUANA 1OZ OR LESS OVER 18 YEARS OF AGE,1,2019-00092471
+2019-09-13T22:59:00.0,2019,9,Male,White,Hispanic,1990,29,MANTON AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00092356
+2019-09-13T22:29:00.0,2019,9,Male,White,NonHispanic,1985,33,BRANCH AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00092346
+2019-09-13T22:29:00.0,2019,9,Male,White,NonHispanic,1985,33,BRANCH AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-DISORDERLY CONDUCT,1,2019-00092346
+2019-09-13T15:29:00.0,2019,9,Male,Black,NonHispanic,1981,38,DEXTER ST,Pawtucket,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00092196
+2019-09-13T00:00:00.0,2019,9,Female,Black,NonHispanic,1979,39,ACADEMY AVE,PROVIDENCE,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00092019
+2019-09-13T00:00:00.0,2019,9,Female,Black,NonHispanic,1979,39,ACADEMY AVE,PROVIDENCE,Rhode Island,RI Statute Violation,Chemical Test Refusal,1,2019-00092019
+2019-09-13T00:00:00.0,2019,9,Female,Black,NonHispanic,1979,39,ACADEMY AVE,PROVIDENCE,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00092019
+2019-09-13T00:00:00.0,2019,9,Female,Black,NonHispanic,1979,39,ACADEMY AVE,PROVIDENCE,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00092019
+2019-09-12T20:37:00.0,2019,9,Male,White,Hispanic,1969,50,No Permanent Address,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-MISD - SHOPLIFTING,1,2019-00091955
+2019-09-12T18:47:00.0,2019,9,Male,Black,NonHispanic,1996,23,VERMONT AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00091921
+2019-09-11T19:20:00.0,2019,9,Male,Black,NonHispanic,1981,38,WENDELL ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00091527
+2019-09-11T19:20:00.0,2019,9,Male,Black,NonHispanic,1981,38,WENDELL ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-DISORDERLY CONDUCT,1,2019-00091527
+2019-09-11T16:33:00.0,2019,9,Male,Black,NonHispanic,1964,54,GALLUP ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00091449
+2019-09-11T03:42:00.0,2019,9,Male,Black,NonHispanic,1969,49,WINDMILL ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,6,2019-00091232
+2019-09-10T19:10:00.0,2019,9,Male,Black,NonHispanic,1985,34,LYNCH ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00091085
+2019-09-10T18:30:00.0,2019,9,Female,White,NonHispanic,2001,18,N CARPENTER ST,East Providence,Rhode Island,RI Statute Violation,Driving on Expired License,1,2019-00091065
+2019-09-10T18:30:00.0,2019,9,Male,White,Hispanic,1996,22,LEONARD JENARD DR,PAWTCUKET,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00091065
+2019-09-10T16:32:00.0,2019,9,Male,White,Hispanic,1977,42,LEAH ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00091023
+2019-09-10T12:54:00.0,2019,9,Male,Black,NonHispanic,1971,48,PLAINFIELD ST,Providence,Rhode Island,Municipal Code Violation," Possession ,of alcoholic beverages on any public street, sidewalk, licensed parking lot, way or grounds owned by city.",1,2019-00090930
+2019-09-10T02:10:00.0,2019,9,Male,Black,NonHispanic,1985,34,BROAD ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00090808
+2019-09-09T21:07:00.0,2019,9,Male,White,Hispanic,1970,48,PEKIN ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00090597
+2019-09-09T18:04:00.0,2019,9,Male,Black,NonHispanic,1965,54,RIVER AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00090667
+2019-09-08T22:20:00.0,2019,9,Male,Black,NonHispanic,1990,29,LOWELL ST,Providence,North Dakota,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00090373
+2019-09-08T12:23:00.0,2019,9,Male,Black,Hispanic,1985,33,CHAPIN AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00090188
+2019-09-08T09:41:00.0,2019,9,Male,Black,Hispanic,1992,27,DUNEDIN STREET,Cranston,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00090156
+2019-09-08T05:15:00.0,2019,9,Male,Black,NonHispanic,1986,33,DARLING ST,CENTRAL FALLS,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00090133
+2019-09-08T00:41:00.0,2019,9,Female,Black,NonHispanic,1979,39,SEARLE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00090051
+2019-09-07T20:17:00.0,2019,9,Male,White,Hispanic,1968,50,PARKWAY AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00089930
+2019-09-07T18:04:00.0,2019,9,Male,Black,NonHispanic,1974,44,ELMA ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00089884
+2019-09-06T18:07:00.0,2019,9,Male,White,Hispanic,1980,39,CRANSTON ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00089506
+2019-09-06T13:02:00.0,2019,9,Male,White,Hispanic,1989,30,APPLETON AVE,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER COCAINE-1OZ-1KG,1,2019-00089399
+2019-09-06T13:02:00.0,2019,9,Male,White,Hispanic,1989,30,APPLETON AVE,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER HEROIN-1OZ-1KG,1,2019-00089399
+2019-09-06T13:02:00.0,2019,9,Male,White,Hispanic,1989,30,APPLETON AVE,Providence,Rhode Island,RI Statute Violation,MANUFACTURE/POSS/DELIVER SCH III/IV,2,2019-00089399
+2019-09-06T13:02:00.0,2019,9,Male,White,Hispanic,1989,30,APPLETON AVE,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00089399
+2019-09-06T08:23:00.0,2019,9,Male,White,NonHispanic,1968,51,COTTAGE STREET,Cranston,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00089318
+2019-09-06T02:15:00.0,2019,9,Male,White,NonHispanic,1982,37,ADMIRAL,Providence,New Hampshire,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00089295
+2019-09-06T02:04:00.0,2019,9,Male,White,NonHispanic,1979,40,ADMIRAL ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00089293
+2019-09-06T02:04:00.0,2019,9,Male,White,NonHispanic,1979,40,ADMIRAL ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00089293
+2019-09-06T02:04:00.0,2019,9,Male,White,NonHispanic,1979,40,ADMIRAL ST,Providence,Rhode Island,RI Statute Violation,WEAPONS OTHER THAN FIREARMS PROHIBITED,1,2019-00089293
+2019-09-06T02:04:00.0,2019,9,Male,White,NonHispanic,1979,40,ADMIRAL ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00089293
+2019-09-06T02:04:00.0,2019,9,Male,White,NonHispanic,1979,40,ADMIRAL ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00089293
+2019-09-06T00:01:00.0,2019,9,Male,Black,NonHispanic,1989,29,TILLEY AVE,NEWPORT,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00089247
+2019-09-06T00:01:00.0,2019,9,Male,Black,NonHispanic,1989,29,TILLEY AVE,NEWPORT,Rhode Island,RI Statute Violation,OBSTRUCTING OFFICER IN EXECUTION OF DUTY,1,2019-00089247
+2019-09-06T00:00:00.0,2019,9,Male,Black,NonHispanic,1967,51,MAIN ST,Wakefield,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00089289
+2019-09-05T19:50:00.0,2019,9,Female,White,NonHispanic,1991,28,DANIELS ST,Millis,Massachusetts,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00089174
+2019-09-05T19:49:00.0,2019,9,Male,Black,Hispanic,1990,29,MT PLEASANT AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00089173
+2019-09-05T15:00:00.0,2019,9,Male,White,Hispanic,1992,27,NEW YORK AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00089048
+2019-09-05T12:25:00.0,2019,9,Male,White,Hispanic,1953,65,No Permanent Address,Providence,Rhode Island,Municipal Code Violation,Disorderly Conduct G - Urine in public,1,2019-00088974
+2019-09-03T17:50:00.0,2019,9,Male,Black,NonHispanic,1992,26,BLOOMFIELD ST,PAWTUCKET,Rhode Island,RI Statute Violation,WEAPONS OTHER THAN FIREARMS PROHIBITED,1,2019-00088087
+2019-09-03T15:22:00.0,2019,9,Female,White,NonHispanic,1958,61,WOODBINE ST,Cranston,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00088240
+2019-09-02T22:42:00.0,2019,9,Male,Black,NonHispanic,1958,61,BROARD,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00087985
+2019-09-02T09:30:00.0,2019,9,Male,White,NonHispanic,1985,33,UNIT ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,3,2019-00087777
+2019-09-02T09:30:00.0,2019,9,Male,White,NonHispanic,1985,33,UNIT ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00087777
+2019-09-02T09:30:00.0,2019,9,Male,White,NonHispanic,1985,33,UNIT ST,Providence,Rhode Island,RI Statute Violation,VANDALISM/MALICIOUS INJURY TO PROPERTY,3,2019-00087777
+2019-09-02T00:00:00.0,2019,9,Male,Black,Hispanic,1983,36,HARTFORD AVE,Providence,Rhode Island,RI Statute Violation,FELONY ASSAULT/ DANG. WEAPON OR SUBSTANCE,1,2019-00087663
+2019-09-01T20:28:00.0,2019,9,Male,Black,NonHispanic,1976,43,PARNELL ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00087573
+2019-09-01T20:28:00.0,2019,9,Male,Black,NonHispanic,1976,43,PARNELL ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00087573
+2019-09-01T13:06:00.0,2019,9,Male,White,Hispanic,1995,23,LAUREL HILL AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00087417
+2019-09-01T08:58:00.0,2019,9,Male,Black,NonHispanic,1986,33,MELISSA ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00087360
+2019-09-01T03:02:00.0,2019,9,Male,White,Hispanic,1991,28,PARKER ST,Jamaica Plain,Massachusetts,Municipal Code Violation,Disorderly Conduct C - Fighting Words,1,2019-00087307
+2019-09-01T03:02:00.0,2019,9,Male,Black,Hispanic,1991,27,GARFIELD AVE,Hyde Park,Massachusetts,RI Statute Violation,POSSESSION OF MARIJUANA 1OZ OR LESS OVER 18 YEARS OF AGE,1,2019-00087307
+2019-09-01T01:44:00.0,2019,9,Male,Black,NonHispanic,1980,38,ANTHONY ST,EAST PROVIDENCE,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00087274
+2019-09-01T00:18:00.0,2019,9,Male,White,NonHispanic,1981,38,JEWETT ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00087222
+2019-09-01T00:18:00.0,2019,9,Male,White,NonHispanic,1981,38,JEWETT ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00087222
+2019-08-31T23:12:00.0,2019,8,Male,Black,NonHispanic,1988,30,GRAND VIEW,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00087168
+2019-08-31T23:12:00.0,2019,8,Male,Black,NonHispanic,1988,30,GRAND VIEW,Providence,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00087168
+2019-08-31T21:04:00.0,2019,8,Male,Black,Hispanic,1973,46,PLAINFIELD ST,Providence,Rhode Island,RI Statute Violation,Chemical Test Refusal,1,2019-00087111
+2019-08-31T21:04:00.0,2019,8,Male,Black,Hispanic,1973,46,PLAINFIELD ST,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00087111
+2019-08-31T17:07:00.0,2019,8,Male,White,Unknown,1973,46,PUBLIC ST,Providence,Rhode Island,RI Statute Violation,WEAPONS OTHER THAN FIREARMS PROHIBITED,1,2019-00087024
+2019-08-31T17:07:00.0,2019,8,Male,White,Unknown,1973,46,PUBLIC ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00087024
+2019-08-31T13:48:00.0,2019,8,Female,White,NonHispanic,1964,54,FRIENDSHIP ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00086958
+2019-08-31T01:34:00.0,2019,8,Male,Black,NonHispanic,1997,22,HALE ST. APT 1.,Fitchburg,Massachusetts,RI Statute Violation,POSSESSION OF MARIJUANA 1OZ OR LESS OVER 18 YEARS OF AGE,1,2019-00086796
+2019-08-31T00:03:00.0,2019,8,Male,Black,NonHispanic,1987,31,GENERAL ST,Providence,Rhode Island,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00086754
+2019-08-31T00:03:00.0,2019,8,Male,Black,NonHispanic,1987,31,GENERAL ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00086754
+2019-08-30T19:16:00.0,2019,8,Male,White,Unknown,1982,37,ORMS ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00086608
+2019-08-30T14:54:00.0,2019,8,Male,White,NonHispanic,1966,52,FARMINGTON AVE,Cranston,Rhode Island,RI Statute Violation,LARCENY/U $1500 - FROM MV,1,2019-00086422
+2019-08-30T10:00:00.0,2019,8,Male,Black,Hispanic,1998,20,EASTWOOD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,2,2019-00086397
+2019-08-30T00:00:00.0,2019,8,Male,Black,NonHispanic,1970,49,BROAD ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00086690
+2019-08-29T21:01:00.0,2019,8,Male,White,NonHispanic,1986,33,REILLY AVE,East Greenwhich,Rhode Island,RI Statute Violation,Chemical Test Refusal,1,2019-00086258
+2019-08-29T21:01:00.0,2019,8,Male,White,NonHispanic,1986,33,REILLY AVE,East Greenwhich,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00086258
+2019-08-29T21:01:00.0,2019,8,Male,White,NonHispanic,1986,33,REILLY AVE,East Greenwhich,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00086258
+2019-08-29T20:00:00.0,2019,8,Male,White,NonHispanic,1992,27,LINTON ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00086239
+2019-08-29T19:08:00.0,2019,8,Male,Black,NonHispanic,1964,55,WILLARD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,2,2019-00086220
+2019-08-29T15:23:00.0,2019,8,Female,Asian/Pacific Islander,NonHispanic,1989,30,CHESTER AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00086126
+2019-08-29T15:13:00.0,2019,8,Male,Black,NonHispanic,1974,44,ELMA ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00086113
+2019-08-28T21:07:00.0,2019,8,Male,White,Hispanic,1960,58,FLORA ST,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00085870
+2019-08-28T20:44:00.0,2019,8,Female,White,NonHispanic,1980,38,EASTWOOD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00085884
+2019-08-28T14:29:00.0,2019,8,Male,White,Hispanic,1995,23,TUXEDO AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00085766
+2019-08-28T02:24:00.0,2019,8,Male,White,NonHispanic,1990,29,ROCLAND ROAD,SCITUATE,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00085600
+2019-08-28T00:00:00.0,2019,8,Male,White,NonHispanic,1975,44,CHARLES ST,PROVIDENCE,Rhode Island,RI Statute Violation,"Driving after Denial, Revocation or Suspension for Misd.",1,2019-00085821
+2019-08-27T20:58:00.0,2019,8,Male,Black,NonHispanic,1971,48,UNIT ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00085520
+2019-08-27T20:58:00.0,2019,8,Male,Black,NonHispanic,1971,48,UNIT ST,Providence,Rhode Island,RI Statute Violation,OBSTRUCTING OFFICER IN EXECUTION OF DUTY,1,2019-00085520
+2019-08-27T12:40:00.0,2019,8,Male,Black,NonHispanic,1988,31,SPRUCE STREET,Westerly,Rhode Island,RI Statute Violation,Possession of Stolen Vehicle or Parts,1,2019-00085252
+2019-08-27T07:18:00.0,2019,8,Male,Black,Hispanic,1995,23,ADMIRAL ST,Providence,Rhode Island,RI Statute Violation,POSS OF CTRL SUBSTANCE LAWFUL ONLY ORIG CONTAINER,1,2019-00085254
+2019-08-27T04:41:00.0,2019,8,Male,White,NonHispanic,1989,30,HARTFORD AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00065955
+2019-08-27T04:41:00.0,2019,8,Male,White,NonHispanic,1989,30,HARTFORD AVE,Providence,Rhode Island,RI Statute Violation,OBSTRUCTING OFFICER IN EXECUTION OF DUTY,1,2019-00065955
+2019-08-26T20:48:00.0,2019,8,Male,Black,NonHispanic,1995,24,PRINCETON AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00085147
+2019-08-26T18:48:00.0,2019,8,Female,White,NonHispanic,1965,54,BROAD ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,3,2019-00085096
+2019-08-26T14:46:00.0,2019,8,Male,Black,NonHispanic,1989,29,INDIAN RD.,"e, providence",Rhode Island,RI Statute Violation,RECEIVING STOLEN GOODS-MISDEMEANOR,1,2019-00085014
+2019-08-26T00:00:00.0,2019,8,Female,White,NonHispanic,1989,29,RIVER AVE,Providence,Rhode Island,RI Statute Violation,WILLFUL TRESPASS,1,2019-00084931
+2019-08-25T14:00:00.0,2019,8,Female,Black,NonHispanic,1983,36,HAWTHORNE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00084683
+2019-08-25T12:31:00.0,2019,8,Female,White,NonHispanic,1981,38,GALLUP ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00084662
+2019-08-25T12:31:00.0,2019,8,Female,White,NonHispanic,1981,38,GALLUP ST,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-MISD - SHOPLIFTING,1,2019-00084662
+2019-08-25T00:19:00.0,2019,8,Male,Asian/Pacific Islander,NonHispanic,1997,22,BEECHWOOD AVE,PAWTUCKET,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00084495
+2019-08-25T00:19:00.0,2019,8,Male,Asian/Pacific Islander,NonHispanic,1997,22,BEECHWOOD AVE,PAWTUCKET,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00084495
+2019-08-25T00:00:00.0,2019,8,Male,Black,NonHispanic,1976,42,PENN ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00084504
+2019-08-24T18:39:00.0,2019,8,Female,Black,Hispanic,1974,45,DEVONSHIRE ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00084333
+2019-08-24T02:02:00.0,2019,8,Female,Black,NonHispanic,1984,34,DOUGLAS AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00060086
+2019-08-24T02:02:00.0,2019,8,Female,Black,NonHispanic,1984,34,DOUGLAS AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-VANDALISM/MALICIOUS INJURY TO PROP,1,2019-00060086
+2019-08-23T19:56:00.0,2019,8,Female,White,NonHispanic,1996,23,3RD AVE,CRANSTON,Rhode Island,RI Statute Violation,"Driving after Denial, Revocation or Suspension for Misd.",1,2019-00083998
+2019-08-23T14:00:00.0,2019,8,Male,Black,NonHispanic,1972,47,PINE,Providence,New Mexico,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00083882
+2019-08-15T12:19:00.0,2019,8,Male,Black,NonHispanic,1972,47,PINE,Providence,New Mexico,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00080697
+2019-10-22T00:15:00.0,2019,10,Male,White,Hispanic,1995,24,LAUREL HILL AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00107652
+2019-10-21T20:34:00.0,2019,10,Male,Black,NonHispanic,1980,38,BLAINE STREET,PROVIDENCE,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00107656
+2019-10-21T20:34:00.0,2019,10,Male,Black,NonHispanic,1980,38,BLAINE STREET,PROVIDENCE,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00107656
+2019-10-21T17:16:00.0,2019,10,Female,Black,NonHispanic,1987,31,AMHERST ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00105013
+2019-10-21T14:59:00.0,2019,10,Female,White,Hispanic,1985,34,ELIZA ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00107519
+2019-10-21T03:42:00.0,2019,10,Male,White,NonHispanic,1972,47,GREENVILLE AVE,JOHNSTON,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00107374
+2019-10-20T23:32:00.0,2019,10,Male,Black,NonHispanic,1989,30,RHODES ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00107324
+2019-10-20T16:34:00.0,2019,10,Male,White,Unknown,1995,23,MERCY ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00107215
+2019-10-20T16:34:00.0,2019,10,Male,White,Unknown,1995,23,MERCY ST,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00107215
+2019-10-20T16:34:00.0,2019,10,Male,White,Unknown,1995,23,MERCY ST,Providence,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00107215
+2019-10-20T02:56:00.0,2019,10,Male,White,NonHispanic,1983,36,HAROLD ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00106951
+2019-10-19T23:55:00.0,2019,10,Male,Black,NonHispanic,1987,32,PATTON RD,RUMFORD,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00106980
+2019-10-19T16:30:00.0,2019,10,Male,Black,NonHispanic,1989,30,ORMS ST,Providence,Rhode Island,RI Statute Violation,Possession of Stolen Vehicle or Parts,1,2019-00106713
+2019-10-19T01:44:00.0,2019,10,Male,White,Hispanic,1951,67,CHARLES ST,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00106587
+2019-10-19T01:24:00.0,2019,10,Male,White,NonHispanic,1988,31,NEWMAN AVE,Seekonk,Massachusetts,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00106590
+2019-10-19T01:24:00.0,2019,10,Male,White,NonHispanic,1988,31,NEWMAN AVE,Seekonk,Massachusetts,RI Statute Violation,SIMPLE ASSAULT OR BATTERY,1,2019-00106590
+2019-10-18T23:00:00.0,2019,10,Male,Black,NonHispanic,1968,51,BRANCH AVE,Providence,Connecticut,RI Statute Violation,VIOLATION -NO CONTACT ORDER,2,2019-00106526
+2019-10-18T22:39:00.0,2019,10,Male,Black,Hispanic,1984,35,ELMWOOD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00106158
+2019-10-18T17:28:00.0,2019,10,Female,American Indian/Alaskan Native,NonHispanic,1977,42,SHARON ST,Providence,Rhode Island,RI Statute Violation,VIOLATION OF RESTRAINING ORDER,1,2019-00104762
+2019-10-18T01:36:00.0,2019,10,Male,White,NonHispanic,1990,28,CLAREMONT AVE,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00106197
+2019-10-17T19:55:00.0,2019,10,Male,Black,NonHispanic,1993,26,GODDARD ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00106111
+2019-10-17T00:00:00.0,2019,10,Male,Black,NonHispanic,1986,33,HARKNESS ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00105843
+2019-10-16T10:06:00.0,2019,10,Male,Black,NonHispanic,1984,35,FRIENDSHIP ST,Providence,Rhode Island,RI Statute Violation,Possession of Stolen Vehicle or Parts,1,2019-00098978
+2019-10-16T10:06:00.0,2019,10,Male,Black,NonHispanic,1984,35,FRIENDSHIP ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00098978
+2019-10-15T20:38:00.0,2019,10,Male,White,Hispanic,1999,20,OXFORD ST,Providence,Rhode Island,RI Statute Violation,FIRING ACROSS HIGHWAY,1,2019-00105344
+2019-10-15T20:38:00.0,2019,10,Male,White,Hispanic,1999,20,OXFORD ST,Providence,Rhode Island,Municipal Code Violation,Disorderly Conduct D - Obstruct,1,2019-00105344
+2019-10-15T20:31:00.0,2019,10,Female,Black,NonHispanic,1987,32,PUBLIC ST,Providence,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00105342
+2019-10-15T18:57:00.0,2019,10,Male,White,Hispanic,1987,32,PLAIN ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-DISORDERLY CONDUCT,1,2019-00105313
+2019-10-15T17:31:00.0,2019,10,Male,White,Hispanic,1989,30,PLAINFIELD ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00105275
+2019-10-15T17:17:00.0,2019,10,Male,Black,NonHispanic,1969,50,MAIN ST,Providence,Rhode Island,RI Statute Violation,ARSON-5TH DEGREE,1,2019-00105271
+2019-10-15T00:00:00.0,2019,10,Male,White,Hispanic,1985,33,POTTERS AVE,Providence,Rhode Island,RI Statute Violation,Possession of Stolen Vehicle or Parts,1,2019-00104999
+2019-10-14T17:01:00.0,2019,10,Male,Black,NonHispanic,1961,58,BROAD ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00104897
+2019-10-14T13:37:00.0,2019,10,Female,White,NonHispanic,1977,42,CLYDE ST.,Pawtucket,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,3,2019-00104821
+2019-10-13T13:39:00.0,2019,10,Female,Black,NonHispanic,1996,23,POCASSET AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00104431
+2019-10-12T15:30:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,LARCENY/U $1500 - FROM BLD,1,2019-00088562
+2019-10-12T15:30:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-MISD - SHOPLIFTING,1,2019-00091395
+2019-10-12T15:28:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-FELONY - SHOPLIFTING,1,2019-00099070
+2019-10-12T15:28:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,SHOPLIFTING-FELONY - SHOPLIFTING,1,2019-00097734
+2019-10-12T15:28:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00104051
+2019-10-12T15:28:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00104051
+2019-10-12T15:28:00.0,2019,10,Male,White,NonHispanic,1983,35,VETO ST,Providence,Rhode Island,RI Statute Violation,OBSTRUCTION OF THE JUDICIAL SYSTEM,1,2019-00104051
+2019-10-12T11:57:00.0,2019,10,Male,Black,NonHispanic,1965,53,WYATT ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00103980
+2019-10-11T23:39:00.0,2019,10,Male,Black,NonHispanic,1986,33,ADMIRAL,Providwnce,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00103823
+2019-10-11T21:04:00.0,2019,10,Male,Black,NonHispanic,1980,39,CHARLES ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00103769
+2019-10-11T19:16:00.0,2019,10,Male,Black,NonHispanic,1984,35,OXFORD ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00103744
+2019-10-11T17:25:00.0,2019,10,Male,White,Hispanic,1976,43,HASKINS ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00103707
+2019-10-11T12:58:00.0,2019,10,Male,Black,Unknown,1997,22,PECKHAM AVE,Pawtucket,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00103603
+2019-10-11T01:02:00.0,2019,10,Male,Black,NonHispanic,1984,34,ROSEGARDEN ST,Warwick,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00103459
+2019-10-11T00:00:00.0,2019,10,Male,Black,Hispanic,1976,43,ALMA ST,Providence,Rhode Island,RI Statute Violation,ROBBERY-1ST DEGREE,1,2019-00103087
+2019-10-10T20:29:00.0,2019,10,Female,White,NonHispanic,1976,43,HOPE ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00103348
+2019-10-09T23:56:00.0,2019,10,Female,White,Hispanic,1989,30,INDIANA AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-VANDALISM/MALICIOUS INJURY TO PROP,1,2019-00103063
+2019-10-09T14:51:00.0,2019,10,Male,Black,NonHispanic,1982,37,OXFORD ST,Providence,Rhode Island,RI Statute Violation,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00102906
+2019-10-09T14:51:00.0,2019,10,Male,Black,NonHispanic,1982,37,OXFORD ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00102906
+2019-10-09T14:51:00.0,2019,10,Male,Black,NonHispanic,1982,37,OXFORD ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,3,2019-00102906
+2019-10-09T01:33:00.0,2019,10,Male,Black,NonHispanic,1979,40,PEMBROKE AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00102745
+2019-10-09T01:33:00.0,2019,10,Male,Black,NonHispanic,1979,40,PEMBROKE AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00102745
+2019-10-08T17:01:00.0,2019,10,Male,Black,NonHispanic,1991,28,LEAH ST,Providence,Rhode Island,RI Statute Violation,BURGLARY,1,2017-00008874
+2019-10-08T16:12:00.0,2019,10,Female,Black,Hispanic,1987,32,MARCH ST,Providence,Rhode Island,RI Statute Violation,VANDALISM/MALICIOUS INJURY TO PROPERTY,1,2019-00102564
+2019-10-08T16:12:00.0,2019,10,Female,Black,Hispanic,1987,32,MARCH ST,Providence,Rhode Island,RI Statute Violation,"Reckless Driving, Drag Racing - Attempting to Elude",1,2019-00102564
+2019-10-08T10:35:00.0,2019,10,Male,White,NonHispanic,1987,32,HAWKINS ST,Providence,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - NOT RPT TO FBI,1,2019-00102453
+2019-10-08T10:35:00.0,2019,10,Male,White,NonHispanic,1987,32,HAWKINS ST,Providence,Rhode Island,RI Statute Violation,MALICIOUS INJURY-BUILDINGS/FENCES/VEGATATION - ALL OTH LARCENY,1,2019-00102453
+2019-10-07T20:33:00.0,2019,10,Male,Black,NonHispanic,1999,20,SUTTTON AVENUE,East Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00102312
+2019-10-07T17:54:00.0,2019,10,Female,Black,NonHispanic,1989,29,PO BOX 40694,Providence,Rhode Island,RI Statute Violation,Possession of Stolen Vehicle or Parts,1,2019-00101755
+2019-10-07T10:32:00.0,2019,10,Male,Black,NonHispanic,1972,46,No Permanent Address,providence,Rhode Island,RI Statute Violation,ROBBERY-2ND DEGREE,1,2019-00099665
+2019-10-06T05:15:00.0,2019,10,Male,White,Hispanic,1970,49,ELMWOOD AVE,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00101700
+2019-10-06T05:15:00.0,2019,10,Male,White,Hispanic,1970,49,ELMWOOD AVE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00101700
+2019-10-06T00:00:00.0,2019,10,Male,White,Hispanic,1987,31,MILLER ST,Pawtucket,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00101662
+2019-10-05T22:17:00.0,2019,10,Male,Black,NonHispanic,1988,31,No Permanent Address,Providence,Rhode Island,RI Statute Violation,B&E BUS.PLACE PUBLIC BLDG  OR SHIP W/FEL. INTENT,1,2019-00101286
+2019-10-03T18:00:00.0,2019,10,Male,White,Hispanic,1987,31,PUBLIC ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00100699
+2019-10-02T21:15:00.0,2019,10,Male,Black,NonHispanic,1993,25,LISI LN,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00100377
+2019-10-02T17:03:00.0,2019,10,Male,White,NonHispanic,1993,25,BASIL CROSSING,CRANSTON,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00100303
+2019-10-02T14:17:00.0,2019,10,Male,White,NonHispanic,1992,27,MANTON AVE,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00100228
+2019-10-02T02:49:00.0,2019,10,Male,Black,Unknown,1975,43,No Permanent Address,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00100065
+2019-10-02T02:49:00.0,2019,10,Male,Black,Unknown,1975,43,No Permanent Address,Providence,Rhode Island,RI Statute Violation,POSSESSION OF MARIJUANA 1OZ OR LESS OVER 18 YEARS OF AGE,1,2019-00100065
+2019-10-02T00:00:00.0,2019,10,Male,White,NonHispanic,1990,29,ROCLAND ROAD,SCITUATE,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00100316
+2019-10-01T15:35:00.0,2019,10,Male,Black,Hispanic,1993,26,BROAD ST,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00099806
+2019-10-01T11:58:00.0,2019,10,Male,White,NonHispanic,1973,46,INKERMAN ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00099729
+2019-10-01T04:39:00.0,2019,10,Male,Black,NonHispanic,1957,62,BROAD ST,Providence,Rhode Island,RI Statute Violation,ROBBERY-1ST DEGREE,1,2019-00099665
+2019-10-01T00:05:00.0,2019,10,Male,Black,NonHispanic,1983,36,WALDO ST,Providence,Rhode Island,RI Statute Violation,RECEIVING STOLEN GOODS-FELONY,1,2019-00099614
+2019-10-01T00:05:00.0,2019,10,Male,Black,NonHispanic,1986,33,BROAD ST. APT 12,Cranston,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00099614
+2019-09-30T09:16:00.0,2019,9,Male,White,Unknown,1960,58,HOWARD AVE,CRANSTON,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00099347
+2019-09-30T09:16:00.0,2019,9,Male,White,Unknown,1960,58,HOWARD AVE,CRANSTON,Rhode Island,RI Statute Violation,WEAPONS OTHER THAN FIREARMS PROHIBITED,1,2019-00099347
+2019-09-30T09:16:00.0,2019,9,Male,White,Unknown,1960,58,HOWARD AVE,CRANSTON,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00099347
+2019-09-30T09:16:00.0,2019,9,Male,White,NonHispanic,1959,60,ARGALE ST,Cranston,Rhode Island,RI Statute Violation,WEAPONS OTHER THAN FIREARMS PROHIBITED,1,2019-00099347
+2019-09-30T09:16:00.0,2019,9,Male,White,NonHispanic,1959,60,ARGALE ST,Cranston,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00099347
+2019-09-29T23:00:00.0,2019,9,Male,White,NonHispanic,1994,25,TELL ST,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM 6TH DISTRICT COURT,1,2019-00099212
+2019-09-29T22:59:00.0,2019,9,Male,Asian/Pacific Islander,NonHispanic,1981,38,CANDACE,Providence,Rhode Island,RI Statute Violation,DOMESTIC-DISORDERLY CONDUCT,1,2019-00099219
+2019-09-28T16:55:00.0,2019,9,Male,Black,NonHispanic,1964,55,WILLARD AVE,Providence,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00098646
+2019-09-28T16:00:00.0,2019,9,Male,White,NonHispanic,1964,55,HARDING RD,WARWICK,Rhode Island,RI Statute Violation,B&E BUS.PLACE PUBLIC BLDG  OR SHIP W/FEL. INTENT,1,2019-00097557
+2019-09-27T19:37:00.0,2019,9,Male,White,NonHispanic,1968,51,ROBERTA ST,NORTH PROVIDENCE,Rhode Island,RI Statute Violation,POSSESSION OF SCHEDULE I II III,1,2019-00098209
+2019-09-27T19:37:00.0,2019,9,Male,White,NonHispanic,1968,51,ROBERTA ST,NORTH PROVIDENCE,Rhode Island,RI Statute Violation,Driving Under the Influence of Liqour or Drugs (=>.08<.1),1,2019-00098209
+2019-09-27T03:39:00.0,2019,9,Male,Black,NonHispanic,2001,18,RUGGLES ST,Providence,Rhode Island,RI Statute Violation,POSSESSION OF MARIJUANA 1OZ OR LESS OVER 18 YEARS OF AGE,1,2019-00097915
+2019-09-27T00:00:00.0,2019,9,Male,White,Hispanic,2000,19,VOSE ST,Woonsocket,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00097880
+2019-09-26T21:07:00.0,2019,9,Female,Black,NonHispanic,1963,55,HAMILTON ST,Providence,Rhode Island,RI Statute Violation,DOMESTIC-SIMPLE ASSAULT/BATTERY,1,2019-00097813
+2019-09-26T17:20:00.0,2019,9,Male,White,NonHispanic,1990,29,ROCLAND ROAD,SCITUATE,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00097738
+2019-09-26T05:50:00.0,2019,9,Male,White,NonHispanic,1980,39,WISDOM ST,Providence,Rhode Island,RI Statute Violation,MANUFAC/POSS/DELIVER SCH 1/II,1,2019-00001027
+2019-09-25T11:22:00.0,2019,9,Female,White,Hispanic,1975,44,CRANSTON ST,Providence,Rhode Island,RI Statute Violation,OBSTRUCTION OF THE JUDICIAL SYSTEM,1,2019-00097220
+2019-09-25T11:22:00.0,2019,9,Female,White,Hispanic,1975,44,CRANSTON ST,Providence,Rhode Island,Municipal Code Violation,Disorderly and indecent conduct A - Theatening,1,2019-00097220
+2019-09-25T11:22:00.0,2019,9,Male,Black,NonHispanic,1984,35,OPHELIA ST,Providence,Rhode Island,RI Statute Violation,OBSTRUCTION OF THE JUDICIAL SYSTEM,1,2019-00097220
+2019-09-25T11:22:00.0,2019,9,Male,Black,NonHispanic,1984,35,OPHELIA ST,Providence,Rhode Island,Municipal Code Violation,Disorderly and indecent conduct A - Theatening,1,2019-00097220
+2019-09-25T09:54:00.0,2019,9,Female,White,NonHispanic,1977,42,POST RD,WARWICK,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00097198
+2019-09-24T16:23:00.0,2019,9,Male,White,Hispanic,1982,37,HIGHLAND ST,pawtucket,Rhode Island,RI Statute Violation,WARRANT OF ARREST ON AFFIDAVIT - ALL OTH OFFENSE,1,2019-00096871
+2019-09-22T01:01:00.0,2019,9,Male,Black,NonHispanic,1980,39,CHARLES ST,Providence,Rhode Island,RI Statute Violation,DISORDERLY CONDUCT,1,2019-00095780
+2019-09-22T00:00:00.0,2019,9,Female,Black,NonHispanic,1992,27,ORTOLEVA DR,Providence,Rhode Island,Municipal Code Violation,Disorderly Conduct D - Obstruct,1,2019-00095860
+2019-09-19T14:04:00.0,2019,9,Female,White,Hispanic,1975,43,FARRAGUT ST,Providence,Rhode Island,RI Statute Violation,"Driving after Denial, Suspension or Revocation of License",1,2019-00094614
+2019-09-15T00:00:00.0,2019,9,Male,Black,NonHispanic,1988,31,No Permanent Address,Providence,Rhode Island,Warrant\Capias,BENCH WARRANT ISSUED FROM SUPERIOR COURT,1,2019-00093214
