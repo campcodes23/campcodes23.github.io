@@ -4,4 +4,5 @@ week: 10
 date: 2023-07-21
 ---
 finial project presentations
-1. working on this 
+
+congratulations! you have graduated from camp code! we can't wait to see what you have made for your projects

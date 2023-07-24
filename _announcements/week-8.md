@@ -4,4 +4,5 @@ week: 8
 date: 2023-07-19
 ---
 pandas and data science
-1. working on this 
+
+today we will focus on how to use code to manipulate and view data in row/column form

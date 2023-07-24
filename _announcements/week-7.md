@@ -4,4 +4,4 @@ week: 7
 date: 2023-07-18
 ---
 numpy and matplotlib
-1. working on this 
+today we will work to make plots and use external packages!
